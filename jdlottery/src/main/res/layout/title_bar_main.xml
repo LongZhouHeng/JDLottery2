@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <RelativeLayout
+        android:id="@+id/layout_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:background="@color/praise"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:padding="@dimen/default_spacing_10"
+            android:scaleType="center"
+            android:layout_centerVertical="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_21"
+            android:layout_marginLeft="10dp"
+            />
+
+        <LinearLayout
+            android:id="@+id/ll_change"
+            android:gravity="center_vertical"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:orientation="horizontal" >
+            <Button
+                android:id="@+id/btn_chose"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="3dp"
+                android:paddingBottom="3dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_centerVertical="true"
+                android:textSize="@dimen/text_size_16"
+                android:background="@drawable/bg_wh_full"
+                android:text="北京PK10"
+                android:textColor="@color/text_color_primary"
+                />
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:id="@+id/tv_trainnum"
+                android:layout_width="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_14"
+                android:layout_height="wrap_content"
+               android:background="@mipmap/more"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="15dp"
+                />
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

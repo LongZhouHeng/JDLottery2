@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\debug\\layout\\item_alertbutton.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\layout\\item_alertbutton.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_alert_horizontal.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\layout\\layout_alertview_alert_horizontal.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\debug\\layout\\include_alertheader.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\layout\\include_alertheader.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_actionsheet.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\layout\\layout_alertview_actionsheet.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\debug\\layout\\alertview_data.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\layout\\alertview_data.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_alert.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\layout\\layout_alertview_alert.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\layout\\layout_alertview.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_alert_vertical.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\layout\\layout_alertview_alert_vertical.xml"
+    }
+]

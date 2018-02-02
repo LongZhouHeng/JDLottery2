@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="10dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:background="@color/white"
+        >
+      <ImageButton
+          android:id="@+id/im_1"
+          android:layout_width="4dp"
+          android:layout_height="30dp"
+          android:background="@drawable/bg_myinteger"
+          android:layout_centerVertical="true"
+          />
+      <LinearLayout
+          android:id="@+id/rl_1"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_toRightOf="@+id/im_1"
+
+          >
+          <LinearLayout
+              android:layout_width="0dp"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:orientation="horizontal"
+              android:layout_marginLeft="10dp"
+              >
+
+              <TextView
+                  android:id="@+id/add_or_reduce"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="+"
+                  android:textSize="16sp"
+                  android:visibility="gone"
+                  />
+              <TextView
+                  android:id="@+id/tv_myinteger"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_toRightOf="@+id/add_or_reduce"
+                  android:text="30"
+                  android:textSize="16sp"
+                  />
+              <TextView
+                  android:id="@+id/tv_1"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_toRightOf="@+id/tv_myinteger"
+                  android:text="积分"
+                  android:textSize="16sp"
+                  />
+          </LinearLayout>
+
+          <TextView
+              android:id="@+id/tv_from"
+              android:layout_width="0dp"
+              android:layout_height="wrap_content"
+              android:layout_weight="1"
+              android:text="签到获得积分"
+              android:textSize="16sp"
+              android:layout_toRightOf="@+id/tv_1"
+
+              />
+      </LinearLayout>
+
+      <RelativeLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/rl_1"
+          android:layout_toRightOf="@+id/im_1"
+          android:layout_marginLeft="10dp"
+          android:layout_marginTop="5dp"
+          >
+          <TextView
+              android:id="@+id/tv_gettime"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:text="2017-09-25 14:04"
+              />
+
+      </RelativeLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

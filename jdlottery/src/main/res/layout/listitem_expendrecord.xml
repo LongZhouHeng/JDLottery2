@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        >
+
+       <RelativeLayout
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_centerVertical="true"
+           >
+           <TextView
+               android:id="@+id/tv_expendlottname"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="重庆时时彩"
+               android:textSize="@dimen/text_size_14"
+
+               />
+
+           <TextView
+               android:id="@+id/tv_endtime"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="2017-09-28 9:25"
+               android:layout_below="@+id/tv_expendlottname"
+               android:layout_marginTop="5dp"
+               android:textSize="@dimen/text_size_14"
+               />
+
+       </RelativeLayout>
+        <TextView
+            android:id="@+id/tv_expendmoney"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:text="100.00元"
+            />
+    </RelativeLayout>
+
+
+</LinearLayout>

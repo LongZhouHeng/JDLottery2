@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+        <com.cjj.MaterialRefreshLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/refresh"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:overlay="true"
+            app:progress_colors="@array/material_colors"
+            app:progress_size_type="normal"
+            app:wave_height_type="normal"
+            app:wave_show="false"
+            >
+                <GridView
+                    android:id="@+id/gv_added"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:horizontalSpacing="2dip"
+                    android:numColumns="3"
+                    android:scrollbars="none"
+                    android:gravity="center"
+                    android:verticalSpacing="3dip" >
+                </GridView>
+
+        </com.cjj.MaterialRefreshLayout>
+</LinearLayout>

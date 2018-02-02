@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\picture_setting_album_checkbox.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\drawable\\picture_setting_album_checkbox.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\bg_alertbutton_bottom.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\drawable\\bg_alertbutton_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\bg_alertbutton_none.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\drawable\\bg_alertbutton_none.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\bg_alertbutton_left.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\drawable\\bg_alertbutton_left.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\bg_actionsheet_cancel.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\drawable\\bg_actionsheet_cancel.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\btn_play_vedio.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\drawable\\btn_play_vedio.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\progressbar_bg.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\drawable\\progressbar_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\selector_pickerview_btn.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\drawable\\selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\bg_alertview_alert.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\drawable\\bg_alertview_alert.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\bg_actionsheet_header.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\drawable\\bg_actionsheet_header.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\alert.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\drawable\\alert.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\bg_alertbutton_right.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\drawable\\bg_alertbutton_right.xml"
+    },
+    {
+        "merged": "E:\\AndroidClass\\JDLottery2\\myLibrary\\build\\intermediates\\res\\merged\\release\\drawable\\btn_play_vedio_b.xml",
+        "source": "E:\\AndroidClass\\JDLottery2\\myLibrary\\src\\main\\res\\drawable\\btn_play_vedio_b.xml"
+    }
+]

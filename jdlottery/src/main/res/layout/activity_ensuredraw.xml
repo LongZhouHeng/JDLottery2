@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/white"
+    >
+
+    <ImageView
+        android:id="@+id/iv_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/title_bar"
+        layout="@layout/title_bar_result_1" >
+    </include>
+  <View
+      android:layout_width="match_parent"
+      android:layout_height="1.5dp"
+      android:background="@color/app_background_color"
+      />
+
+        <com.jdruanjian.lottery.view.ImageViewCanvas
+            android:layout_marginTop="30dp"
+            android:id="@+id/me_bag_imageView"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/success"
+            app:border_color="#EBEBEB"
+            app:border_width="2dp" />
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="提交成功！"
+        android:textColor="#ff650c"
+        android:paddingStart="5dp"
+        android:layout_gravity="center_horizontal"
+        android:textSize="21sp"
+        />
+     <TextView
+         android:layout_marginTop="15dp"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="已提交平台审核，1-15个工作日到账"
+         android:gravity="center"
+         android:textColor="#989696"
+         android:textSize="16sp"
+         />
+</LinearLayout>
